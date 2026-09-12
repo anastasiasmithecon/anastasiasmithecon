@@ -51,7 +51,27 @@ A Power BI project using data modeling, DAX measures, and interactive visualizat
 
 A Python-based analysis of wages, inflation, and purchasing power featuring data cleaning, visualization, and econometric interpretation.
 
-## My analytical approac
+## My analytical approach
+
+I believe strong analysis should be:
+
+* Grounded in a meaningful economic or business question
+* Transparent about data sources and assumptions
+* Reproducible and carefully validated
+* Honest about uncertainty and limitations
+* Communicated clearly enough to support real decisions
+
+## Currently working on
+
+* Preparing for Microsoft Excel certification
+* Building an economics-focused analytics portfolio
+* Strengthening SQL, Python, and Power BI proficiency
+* Developing reproducible projects with public data from FRED, BLS, BEA, and the U.S. Census Bureau
+
+## Professional interests
+
+I am interested in remote and hybrid opportunities involving economic analysis, decision science, workforce analytics, applied research, and data-informed strategy.
+
 
 <!--
 **anastasiasmithecon/anastasiasmithecon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
